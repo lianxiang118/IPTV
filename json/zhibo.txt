@@ -163,7 +163,7 @@ IHOT爱喜剧,http://tv.lovelytuaner.top:33455/itv/6000000006000010630.m3u8?cdn=
 IHOT爱悬疑,http://tv.lovelytuaner.top:33455/itv/6000000006000050630.m3u8?cdn=wasusyt
 IHOT爱幼教,http://tv.lovelytuaner.top:33455/itv/6000000006000180630.m3u8?cdn=wasusyt
 IHOT爱院线,http://tv.lovelytuaner.top:33455/itv/6000000006000030630.m3u8?cdn=wasusyt
-湖南电影,http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
+
 
 
 
@@ -182,7 +182,7 @@ BesTV电影4K,http://www.17888.fun:10000/udp/239.45.3.107:5140
 百事通纪实4K,http://dns.161015.xyz:33334/rtp/239.45.1.10:5140
 百事通儿童4K,http://dns.161015.xyz:33334/rtp/239.45.1.1:5140
 
-
+http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
 💚通用网络ipv6,#genre#
 CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
