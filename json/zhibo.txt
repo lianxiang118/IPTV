@@ -163,7 +163,7 @@ IHOT爱喜剧,http://tv.lovelytuaner.top:33455/itv/6000000006000010630.m3u8?cdn=
 IHOT爱悬疑,http://tv.lovelytuaner.top:33455/itv/6000000006000050630.m3u8?cdn=wasusyt
 IHOT爱幼教,http://tv.lovelytuaner.top:33455/itv/6000000006000180630.m3u8?cdn=wasusyt
 IHOT爱院线,http://tv.lovelytuaner.top:33455/itv/6000000006000030630.m3u8?cdn=wasusyt
-
+湖南电影,http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
 
 
 
