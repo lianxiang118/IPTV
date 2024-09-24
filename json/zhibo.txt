@@ -1,4 +1,11 @@
 💚全网通🩶非全网通,#genre#
+辽宁经济高清,http://vipcoolufo.com:4022/rtp/232.0.0.155:9320
+辽宁公共高清,http://vipcoolufo.com:4022/rtp/232.0.0.156:9322
+辽宁都市,http://vipcoolufo.com:4022/rtp/232.0.0.88:8890
+辽宁影视剧,http://vipcoolufo.com:4022/rtp/232.0.0.97:8534
+辽宁生活,http://vipcoolufo.com:4022/rtp/232.0.0.96:8538
+辽宁体育,http://vipcoolufo.com:4022/rtp/232.0.0.3:8540
+辽宁北方,http://vipcoolufo.com:4022/rtp/232.0.0.55:8542
 CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
 CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
 CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
