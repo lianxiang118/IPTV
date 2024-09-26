@@ -157,7 +157,7 @@ import replace
 import fileinput
 from opencc import OpenCC
 file_contents = []
-file_paths = ["北京联通.txt","山西联通.txt","上海电信.txt","吉林电信.txt","江苏电信.txt","安徽联通.txt","湖南电信.txt","陕西电信.txt","四川电信.txt","河南电信.txt","河南联通.txt"]  # 替换为实际的文件路径列表
+file_paths = ["北京联通.txt","山西联通.txt","上海电信.txt","吉林电信.txt","江苏电信.txt","山东联通.txt","湖南电信.txt","陕西电信.txt","四川电信.txt","河南电信.txt","河南联通.txt"]  # 替换为实际的文件路径列表
 for file_path in file_paths:
     if os.path.exists(file_path):
         with open(file_path, 'r', encoding="utf-8") as file:
@@ -257,7 +257,7 @@ with open('iptv_list.txt', 'r', encoding='utf-8') as file, open('DD.txt', 'w', e
 
 
 ###############################################################################################################################################################################
-keywords = ['湖南', '上海', '四川', '河南', '陕西', '河南公共', '河南乡村', '北京', '河南民生', '山西', '吉林', '安徽', '河南电视剧', '河南都市', '江苏']  # 需要提取的关键字列表
+keywords = ['湖南', '上海', '四川', '河南', '山东', '陕西', '河南公共', '河南乡村', '北京', '河南民生', '山西', '吉林', '安徽', '河南电视剧', '河南都市', '江苏']  # 需要提取的关键字列表
 pattern = '|'.join(keywords)  # 创建正则表达式模式，匹配任意一个关键字
 #pattern = r"^(.*?),(?!#genre#)(.*?)$" #以分类直接复制
 with open('iptv_list.txt', 'r', encoding='utf-8') as file, open('df.txt', 'w', encoding='utf-8') as df:
