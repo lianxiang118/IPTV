@@ -1082,6 +1082,18 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
 内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
+CHC家庭影院,http://139.209.39.206:9901/tsfile/live/1016_1.m3u8
+CHC高清电影,http://139.209.39.206:9901/tsfile/live/1015_1.m3u8
+风云剧场,http://139.209.39.206:9901/tsfile/live/1034_1.m3u8
+第一剧场,http://139.209.39.206:9901/tsfile/live/1025_1.m3u8
+怀旧剧场,http://139.209.39.206:9901/tsfile/live/1026_1.m3u8
+吉林都市,http://139.209.39.206:9901/tsfile/live/1002_1.m3u8
+吉林公共,http://139.209.39.206:9901/tsfile/live/1001_1.m3u8
+吉林综艺,http://139.209.39.206:9901/tsfile/live/1003_1.m3u8
+吉林影视,http://139.209.39.206:9901/tsfile/live/1006_1.m3u8
+吉林生活,http://139.209.39.206:9901/tsfile/live/1007_1.m3u8
+吉林乡村,http://139.209.39.206:9901/tsfile/live/1008_1.m3u8
+长影频道,http://139.209.39.206:9901/tsfile/live/1010_1.m3u8
 
 
 
