@@ -401,20 +401,14 @@ NewTv超级综艺,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/100000000
 NewTv金牌综艺,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000026167/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000026167
 NewTv魅力潇湘,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000006197/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000006197
 NewTv精彩影视,http://hao6688.3322.org:30066/stream/channelid/450685727?profile=pass
-哒啵电竞,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000032327/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000032327
-哒啵赛事,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000006906/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000006906
-咪咕视频,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270003
-咪咕视频1,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270007/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270007
-咪咕视频2,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270006/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270006
-咪咕视频3,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270005/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270005
-咪咕视频4,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270002
-咪咕视频5,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270001
-
-
-
-
 
 🩶内蒙古移动频道,#genre#
+内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
+内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
+内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -538,14 +532,7 @@ CHC高清电影,http://139.209.39.206:9901/tsfile/live/1015_1.m3u8
 
 
 
-💚四十四套卫视,#genre#
-星空卫视,http://m.azwj.top:31991/stream/channelid/1313986052?auth=Picrjg-DLYUUmUSbwERDW62PYQl0
-亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
-亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=ac45e27a334257c4d268aa28-156386102005599&wsIPSercert=3cfee0b74021192a76485d7a0370374b&wsMonitor=0
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?$720P
+卫视,#genre#
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 安多卫视,http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226405/index.m3u8
 安多卫视,http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000064/index.m3u8
@@ -774,21 +761,3 @@ CHC高清电影,http://139.209.39.206:9901/tsfile/live/1015_1.m3u8
 重庆卫视,http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000517/index.m3u8
 重庆卫视,http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002218/index.m3u8
 重庆卫视,http://www.syl88.online:8123/PLTV/88888888/224/3221225803/10000100000000060000000001020098_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7ETt5M1LxuM_YtBqcS5g7Muw%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F3840707%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001020098_0%2CEND
-内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
-内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
-内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
-内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
-内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
-内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-CHC家庭影院,http://139.209.39.206:9901/tsfile/live/1016_1.m3u8
-CHC高清电影,http://139.209.39.206:9901/tsfile/live/1015_1.m3u8
-风云剧场,http://139.209.39.206:9901/tsfile/live/1034_1.m3u8
-第一剧场,http://139.209.39.206:9901/tsfile/live/1025_1.m3u8
-怀旧剧场,http://139.209.39.206:9901/tsfile/live/1026_1.m3u8
-吉林都市,http://139.209.39.206:9901/tsfile/live/1002_1.m3u8
-吉林公共,http://139.209.39.206:9901/tsfile/live/1001_1.m3u8
-吉林综艺,http://139.209.39.206:9901/tsfile/live/1003_1.m3u8
-吉林影视,http://139.209.39.206:9901/tsfile/live/1006_1.m3u8
-吉林生活,http://139.209.39.206:9901/tsfile/live/1007_1.m3u8
-吉林乡村,http://139.209.39.206:9901/tsfile/live/1008_1.m3u8
-长影频道,http://139.209.39.206:9901/tsfile/live/1010_1.m3u8
