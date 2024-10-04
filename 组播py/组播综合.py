@@ -293,7 +293,7 @@ keywords = ['优漫', '动漫', '卡酷', '卡通', '动画']  # 需要提取的
 pattern = '|'.join(keywords)  # 创建正则表达式模式，匹配任意一个关键字
 #pattern = r"^(.*?),(?!#genre#)(.*?)$" #以分类直接复制
 with open('iptv_list.txt', 'r', encoding='utf-8') as file, open('f.txt', 'w', encoding='utf-8') as f:    #####定义临时文件名
-    f.write('\n💚少儿频道&爬虫,#genre#\n')                                                                  #####写入临时文件名
+    f.write('\n💚内蒙古频道&爬虫,#genre#\n')                                                                  #####写入临时文件名
     for line in file:
       if 'CCTV' not in line and 'b' not in line and 'CHC' not in line and '4K' not in line and 'genre' not in line:
         if re.search(pattern, line):  # 如果行中有任意关键字
