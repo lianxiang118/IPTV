@@ -401,7 +401,7 @@ NewTv金牌综艺,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/100000000
 NewTv魅力潇湘,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000006197/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000006197
 NewTv精彩影视,http://hao6688.3322.org:30066/stream/channelid/450685727?profile=pass
 
-🩶内蒙古移动频道,#genre#
+🩶移动频道,#genre#
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
@@ -485,8 +485,6 @@ CGTN,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/
 黑莓电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 上海纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-=香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-=亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8#http://eastscreen.tv/ooooo.php?id=fhws
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc48.m3u8#http://eastscreen.tv/ooooo.php?id=fhzx
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -513,28 +511,11 @@ CGTN,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/
 重庆卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 吉林卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-CHC家庭影院,http://139.209.39.206:9901/tsfile/live/1016_1.m3u8
-CHC高清电影,http://139.209.39.206:9901/tsfile/live/1015_1.m3u8
-第一剧场,http://139.209.39.206:9901/tsfile/live/1025_1.m3u8
-风云剧场,http://139.209.39.206:9901/tsfile/live/1034_1.m3u8
-怀旧剧场,http://139.209.39.206:9901/tsfile/live/1026_1.m3u8
-吉林都市,http://139.209.39.206:9901/tsfile/live/1002_1.m3u8
-吉林公共,http://139.209.39.206:9901/tsfile/live/1001_1.m3u8
-吉林综艺,http://139.209.39.206:9901/tsfile/live/1003_1.m3u8
-吉林影视,http://139.209.39.206:9901/tsfile/live/1006_1.m3u8
-吉林生活,http://139.209.39.206:9901/tsfile/live/1007_1.m3u8
-吉林乡村,http://139.209.39.206:9901/tsfile/live/1008_1.m3u8
-长影频道,http://139.209.39.206:9901/tsfile/live/1010_1.m3u8
-
-
 
 
 
 
 卫视,#genre#
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-安多卫视,http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226405/index.m3u8
-安多卫视,http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000064/index.m3u8
 安徽卫视,http://61.163.181.78:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000514/index.m3u8
