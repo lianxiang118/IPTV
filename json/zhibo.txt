@@ -512,7 +512,35 @@ CGTN,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/
 吉林卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
-
+陕西移动酒店,#genre#
+CCTV1,http://120.192.226.35:8009/hls/501/index.m3u8
+CCTV2,http://120.192.226.35:8009/hls/501/index.m3u8
+CCTV3,http://120.192.226.35:8009/hls/3/index.m3u8
+CCTV4,http://120.192.226.35:8009/hls/4/index.m3u8
+CCTV5,http://120.192.226.35:8009/hls/503/index.m3u8
+CCTV6,http://120.192.226.35:8009/hls/6/index.m3u8
+CCTV7,http://120.192.226.35:8009/hls/504/index.m3u8
+CCTV8,http://120.192.226.35:8009/hls/8/index.m3u8
+CCTV9,http://120.192.226.35:8009/hls/509/index.m3u8
+CCTV10,http://120.192.226.35:8009/hls/506/index.m3u8
+CCTV11,http://120.192.226.35:8009/hls/11/index.m3u8
+CCTV12,http://120.192.226.35:8009/hls/507/index.m3u8
+CCTV13,http://120.192.226.35:8009/hls/13/index.m3u8
+CCTV14,http://120.192.226.35:8009/hls/14/index.m3u8
+CCTV15,http://120.192.226.35:8009/hls/15/index.m3u8
+陕西卫视,http://120.192.226.35:8009/hls/17/index.m3u8
+陕西一套,http://120.192.226.35:8009/hls/18/index.m3u8
+陕西二套,http://120.192.226.35:8009/hls/19/index.m3u8
+陕西三套,http://120.192.226.35:8009/hls/20/index.m3u8
+陕西四套,http://120.192.226.35:8009/hls/21/index.m3u8
+陕西五套,http://120.192.226.35:8009/hls/22/index.m3u8
+陕西六套,http://120.192.226.35:8009/hls/23/index.m3u8
+陕西七套,http://120.192.226.35:8009/hls/24/index.m3u8
+陕西八套,http://120.192.226.35:8009/hls/62/index.m3u8
+精彩三秦,http://120.192.226.35:8009/hls/26/index.m3u8
+农林卫视,http://120.192.226.35:8009/hls/27/index.m3u8
+西安一套,http://120.192.226.35:8009/hls/28/index.m3u8
+西安二套,http://120.192.226.35:8009/hls/29/index.m3u8
 
 
 卫视,#genre#
