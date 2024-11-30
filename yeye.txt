@@ -1,9 +1,10 @@
-💚更新时间11-30 06:36,#genre#
+💚更新时间12-01 06:35,#genre#
 NewTv超级电影,http://39.134.134.47/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EOKgJ-MarN4M0aStGnXjR0A%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000005002658%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371700698%2CEND&GuardEncType=2
 港澳频道,#genre#
 珠江台,http://58.254.14.36:808/hls/55/index.m3u8
 
 央视频道,#genre#
+广东珠江,http://113.86.205.59:8090/hls/105/index.m3u8
 CCTV1,http://58.254.14.36:808/hls/1/index.m3u8
 CCTV1,http://171.13.113.87:808/hls/1/index.m3u8
 CCTV2,http://58.254.14.36:808/hls/2/index.m3u8
@@ -24,9 +25,7 @@ CCTV8,http://58.254.14.36:808/hls/8/index.m3u8
 CCTV8,http://171.13.113.87:808/hls/8/index.m3u8
 CCTV9,http://58.254.14.36:808/hls/9/index.m3u8
 CCTV9,http://171.13.113.87:808/hls/9/index.m3u8
-CCTV10,http://58.254.14.36:808/hls/10/index.m3u8
 CCTV10,http://171.13.113.87:808/hls/10/index.m3u8
-CCTV11,http://58.254.14.36:808/hls/11/index.m3u8
 CCTV11,http://171.13.113.87:808/hls/11/index.m3u8
 CCTV12,http://58.254.14.36:808/hls/12/index.m3u8
 CCTV12,http://171.13.113.87:808/hls/12/index.m3u8
@@ -75,6 +74,7 @@ CCTV17,http://171.13.113.87:808/hls/17/index.m3u8
 江西卫视,http://171.13.113.87:808/hls/73/index.m3u8
 辽宁卫视,http://171.13.113.87:808/hls/69/index.m3u8
 辽宁卫视,http://58.254.14.36:808/hls/29/index.m3u8
+南方卫视,http://113.86.205.59:8090/hls/109/index.m3u8
 南方卫视,http://58.254.14.36:808/hls/51/index.m3u8
 内蒙古卫视,http://171.13.113.87:808/hls/84/index.m3u8
 内蒙古卫视,http://58.254.14.36:808/hls/132/index.m3u8
@@ -104,6 +104,7 @@ CCTV17,http://171.13.113.87:808/hls/17/index.m3u8
 经典电影,http://58.254.14.36:808/hls/512/index.m3u8
 热播剧场,http://58.254.14.36:808/hls/71/index.m3u8
 少儿频道,#genre#
+广东少儿,http://113.86.205.59:8090/hls/111/index.m3u8
 广东少儿,http://58.254.14.36:808/hls/54/index.m3u8
 哈哈炫动,http://171.13.113.87:808/hls/94/index.m3u8
 佳嘉卡通,http://171.13.113.87:808/hls/92/index.m3u8
@@ -111,8 +112,13 @@ CCTV17,http://171.13.113.87:808/hls/17/index.m3u8
 卡酷少儿,http://171.13.113.87:808/hls/93/index.m3u8
 少儿动画,http://58.254.14.36:808/hls/67/index.m3u8
 省市频道,#genre#
+广东公共,http://113.86.205.59:8090/hls/107/index.m3u8
 广东公共,http://58.254.14.36:808/hls/58/index.m3u8
+广东经济科教,http://113.86.205.59:8090/hls/129/index.m3u8
 广东经济科教,http://58.254.14.36:808/hls/502/index.m3u8
+广东体育,http://113.86.205.59:8090/hls/108/index.m3u8
+广东新闻,http://113.86.205.59:8090/hls/106/index.m3u8
+广东影视,http://113.86.205.59:8090/hls/110/index.m3u8
 广东影视,http://58.254.14.36:808/hls/53/index.m3u8
 广东综艺,http://58.254.14.36:808/hls/66/index.m3u8
 河南都市,http://171.13.113.87:808/hls/32/index.m3u8
@@ -126,9 +132,13 @@ CCTV17,http://171.13.113.87:808/hls/17/index.m3u8
 现代教育,http://58.254.14.36:808/hls/662/index.m3u8
 信阳公共,http://171.13.113.87:808/hls/101/index.m3u8
 信阳综合,http://171.13.113.87:808/hls/100/index.m3u8
+湛江公共,http://113.86.205.59:8090/hls/3/index.m3u8
 3+,http://58.254.14.36:808/hls/108/index.m3u8
+8+,http://58.254.14.36:808/hls/111/index.m3u8
 CNTV,http://171.13.113.87:808/hls/16/index.m3u8
 ETV,http://58.254.14.36:808/hls/106/index.m3u8
+岭南戏曲,http://113.86.205.59:8090/hls/22/index.m3u8
+南山有线,http://113.64.147.57:8081/hls/18/index.m3u8
 平桥广电中心,http://171.13.113.87:808/hls/103/index.m3u8
 汕尾1,http://58.254.14.36:808/hls/504/index.m3u8
 汕尾2,http://58.254.14.36:808/hls/131/index.m3u8
