@@ -1,2 +1,15 @@
-💚更新时间02-04 06:29,#genre#
+💚更新时间02-05 06:34,#genre#
 NewTv超级电影,http://39.134.134.47/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EOKgJ-MarN4M0aStGnXjR0A%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000005002658%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371700698%2CEND&GuardEncType=2
+港澳频道,#genre#
+凤凰中文,http://202.168.187.208:9089/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+
+央视频道,#genre#
+CCTV1,http://119.123.76.64:9600/hls/1/index.m3u8
+CCTV1,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://119.123.76.64:9600/hls/2/index.m3u8
+CCTV2,http://202.168.187.208:9089/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://202.168.187.208:9089/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://202.168.187.208:9089/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://202.168.187.208:9089/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+卫视频道,#genre#
+其他频道,#genre#
