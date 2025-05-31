@@ -1,8 +1,6 @@
-💚更新时间05-31 06:38,#genre#
+💚更新时间06-01 06:37,#genre#
 NewTv超级电影,http://39.134.134.47/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EOKgJ-MarN4M0aStGnXjR0A%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000005002658%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371700698%2CEND&GuardEncType=2
 央视频道,#genre#
-广东珠江,http://113.101.119.121:8090/hls/105/index.m3u8
-
 CCTV1,http://221.13.234.89:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://221.13.234.255:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://221.13.234.89:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -33,6 +31,7 @@ CCTV14,http://221.13.234.89:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&a
 CCTV14,http://221.13.234.255:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://221.13.234.89:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://221.13.234.255:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+
 卫视频道,#genre#
 安徽卫视,http://221.13.234.255:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://221.13.234.89:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -44,38 +43,25 @@ CCTV15,http://221.13.234.255:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 湖南卫视,http://221.13.234.89:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://221.13.234.255:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://221.13.234.89:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-南方卫视,http://113.101.119.121:808/hls/109/index.m3u8
-南方卫视,http://113.101.119.50:8090/hls/109/index.m3u8
 上海卫视,http://221.13.234.255:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 上海卫视,http://221.13.234.89:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://221.13.234.255:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://221.13.234.89:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 影视频道,#genre#
-武术世界,http://123.13.156.31:808/hls/31/index.m3u8
+武术世界,http://123.13.158.245:808/hls/31/index.m3u8
 少儿频道,#genre#
 北京卡通,http://221.13.234.255:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卡通,http://221.13.234.89:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-广东少儿,http://113.101.119.121:808/hls/111/index.m3u8
 金鹰卡通,http://221.13.234.255:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://221.13.234.89:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 省市频道,#genre#
-广东经济科教,http://113.101.119.121:808/hls/129/index.m3u8
-广东经济科教,http://113.101.119.50:808/hls/129/index.m3u8
-广东经济科教,http://113.101.119.50:8090/hls/129/index.m3u8
-广东体育,http://113.101.119.121:808/hls/108/index.m3u8
-广东体育,http://113.101.119.121:8090/hls/108/index.m3u8
-广东体育,http://113.101.119.50:808/hls/108/index.m3u8
-广东新闻,http://113.101.119.121:808/hls/106/index.m3u8
-广东影视,http://113.101.119.121:808/hls/110/index.m3u8
-广东影视,http://113.101.119.50:808/hls/110/index.m3u8
-广东影视,http://113.101.119.50:8090/hls/110/index.m3u8
 河南都市,http://221.13.234.255:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 河南都市,http://221.13.234.89:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 河南法制,http://221.13.234.255:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 河南法制,http://221.13.234.89:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 河南公共,http://221.13.234.255:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 河南公共,http://221.13.234.89:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-河南梨园,http://123.13.156.31:808/hls/30/index.m3u8
+河南梨园,http://123.13.158.245:808/hls/30/index.m3u8
 河南民生,http://221.13.234.255:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 河南民生,http://221.13.234.89:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 河南新闻,http://221.13.234.255:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -85,10 +71,7 @@ CCTV15,http://221.13.234.255:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 其他频道,#genre#
 安阳新闻综合,http://221.13.234.255:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 安阳新闻综合,http://221.13.234.89:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-湛江公共,http://113.101.119.121:808/hls/3/index.m3u8
-岭南戏曲,http://113.101.119.121:808/hls/22/index.m3u8
-南山有线,http://113.64.147.7:8081/hls/18/index.m3u8
-文物宝库,http://123.13.156.31:808/hls/29/index.m3u8
+文物宝库,http://123.13.158.245:808/hls/29/index.m3u8
 相声小品,http://221.13.234.255:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 相声小品,http://221.13.234.89:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-足球,http://123.13.156.31:808/hls/87/index.m3u8
+足球,http://123.13.158.245:808/hls/87/index.m3u8
