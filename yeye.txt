@@ -1,4 +1,4 @@
-💚更新时间07-18 06:40,#genre#
+💚更新时间07-19 06:40,#genre#
 NewTv超级电影,http://39.134.134.47/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EOKgJ-MarN4M0aStGnXjR0A%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000005002658%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371700698%2CEND&GuardEncType=2
 央视频道,#genre#
 CCTV1,http://221.13.234.158:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -113,6 +113,7 @@ CCTV15,http://123.12.176.177:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 浙江卫视,http://221.13.234.254:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 影视频道,#genre#
 经典电影,http://123.12.176.177:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+武术世界,http://123.12.186.232:808/hls/31/index.m3u8
 少儿频道,#genre#
 北京卡通,http://221.13.234.158:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卡通,http://221.13.234.179:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -134,6 +135,7 @@ CCTV15,http://123.12.176.177:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 河南公共,http://221.13.234.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 河南公共,http://221.13.234.179:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 河南公共,http://221.13.234.254:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+河南梨园,http://123.12.186.232:808/hls/30/index.m3u8
 河南民生,http://123.12.176.177:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 河南民生,http://221.13.234.158:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 河南民生,http://221.13.234.179:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -154,6 +156,8 @@ CCTV15,http://123.12.176.177:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 周口电视台1,http://123.12.176.177:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 周口电视台2,http://123.12.176.177:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 南山有线,http://113.64.147.22:8081/hls/18/index.m3u8
+文物宝库,http://123.12.186.232:808/hls/29/index.m3u8
 相声小品,http://221.13.234.158:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 相声小品,http://221.13.234.179:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 相声小品,http://221.13.234.254:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+足球,http://123.12.186.232:808/hls/87/index.m3u8
